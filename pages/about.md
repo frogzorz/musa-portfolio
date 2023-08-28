@@ -5,6 +5,10 @@ headshot: /assets/img/headshot.webp
 permalink: /about
 ---
 
-# Portfolio Jekyll Theme
+# who I am
 
-This is a personal portfolio theme that I built from the ground up, using the [DevTips Starter Kit](http://devtipsstarterkit.com/) as a foundation for starting, and following closely the amazing tutorial by [Travis Neilson over at DevTips](https://www.youtube.com/watch?v=T6jKLsxbFg4&list=PL0CB3OvPhDA_STygmp3sDenx3UpdOMk7P). You can [check out the demo](lenpaul.github.io/portfolio-jekyll-theme/), and [fork the repository](https://github.com/LeNPaul/portfolio-jekyll-theme/fork), to get started.
+I am a clinical research coordinator working on traumatic injury and firearm violence research, as well as the evaluation of the Penn Trauma Violence Intervention Program. As a graduate of Penn's Master of Public Health program, where I focused on spatial epidemiology and health equity, and an incoming student in the Master of Urban Spatial Analytics program, I am particularly interested in applying GIS and epidemiological methods to tackle major problems like firearm violence, substance use and vehicular injury. My professional goals center on using injury epidemiology to expose structural injustices and motivate action to build better futures with/for disinvested communities.
+
+# what I've done
+
+TKTKTK
