@@ -1,13 +1,11 @@
 #-------------------------------
 # General Site Settings
 
-logo: '/assets/img/musa-logo.png'
+logo: '/assets/img/seal.jpg'
 
 intro_title: Personal Mission 10-word Summary
 intro_text: |
-  A brief couple of sentences describing your personal mission statement goes
-  here. This is a great place to very succinctly tell a visitor what drives you
-  and what you're passionate about.
+  Public health professional, geospatial data scientist, gun violence researcher
 
 resume: '/assets/files/resume.pdf'
 resume_link_title: Download Resume
