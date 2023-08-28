@@ -1,0 +1,61 @@
+#-------------------------------
+# General Site Settings
+
+logo: '/assets/img/musa-logo.png'
+
+intro_title: Personal Mission 10-word Summary
+intro_text: |
+  A brief couple of sentences describing your personal mission statement goes
+  here. This is a great place to very succinctly tell a visitor what drives you
+  and what you're passionate about.
+
+resume: '/assets/files/resume.pdf'
+resume_link_title: Download Resume
+
+menu:
+- {name: 'Projects', url: ' '}
+- {name: 'Blog',     url: 'blog'}
+- {name: 'About',    url: 'about'}
+- {name: 'Contact',  url: 'contact'}
+
+#-------------------------------
+# Contact Section
+
+social_label: Connect
+social:
+- {icon: 'twitter',   link: 'https://twitter.com/paululele'}
+- {icon: 'instagram', link: 'https://instagram.com/paululele'}
+- {icon: 'github',    link: 'https://github.com/lenpaul'}
+- {icon: 'linkedin',  link: 'https://linkedin.com/in/lenpaul'}
+- {icon: 'envelope',  link: 'mailto:mailto:l.nguyen.paul@gmail.com'}
+
+# social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
+
+#-------------------------------
+# SEO Section
+
+# NOTE: Providing SEO information will make this website more searchable on the internet.
+
+seo:
+  description: 'Personal portfolio powered by Jekyll and GitHub Pages '
+  rel-author: 'https://plus.google.com/u/0/#'
+  rel-publisher: 'https://plus.google.com/u/0/#'
+
+#-------------------------------
+# Google Analytics Section
+
+# Analytics helps you understand who visits your website.
+# Learn more at: http://support.google.com/analytics/answer/1008065
+
+# NOTE: If you want to use Google Analytics for basic web tracking: Just uncomment and enter your UA-Code here.
+
+# If you are not using Google Analytics, please change 'google-ID' to an empty string
+google-analytics-ua: 'UA-112060364-3'
+
+#-------------------------------
+# Disqus Section
+
+# Change to true for Disqus comments
+disqus:
+  comments: false
+  disqus_shortname: ''

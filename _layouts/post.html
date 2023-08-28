@@ -1,0 +1,12 @@
+---
+layout: default
+---
+
+<main>
+  <div class="post-container">
+    <div class="project-load">{{ content }}</div>
+  </div>
+  {% if site.data.settings.disqus.comments %}
+    {% include disqus.html %}
+  {% endif %}
+</main>

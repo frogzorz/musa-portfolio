@@ -1,0 +1,14 @@
+<div class="featured-image-container">
+  <a href="{{ include.url }}" target="_blank">
+    <img src="{{ '/assets/img' | relative_url }}/{{ include.image }}" alt="{{ include.description }}" title="{{ include.description }}">
+    <div class="overlay">
+      <div class="text">
+        {% if include.action %}
+          {{ include.action }} <i class="fa fa-arrow-right" aria-hidden="true"></i>
+        {% else %}
+          View Demo <i class="fa fa-arrow-right" aria-hidden="true"></i>
+        {% endif %}
+      </div>
+    </div>
+  </a>
+</div>
